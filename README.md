@@ -2,3 +2,5 @@
 
 ## Description
 CSE103 lab repository — LAB 3.
+
+This repository demonstrates Git version control.
